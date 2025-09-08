@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemap.org/schemas/sitemap/0.9">
 <url>
 <loc>https://vafaeenezhads-tech.github.io/cheap-mobileee/</loc>
 <property>1.0</property>
+</url>
+<url>
+<loc>https://vafaeenezhads-tech.github.io/cheap-mobileee/products.html</loc>
+<property>0.9</property>
+</url>
+<url>
+<loc>https://vafaeenezhads-tech.github.io/cheap-mobileee/about.html</loc>
+<property>0.6</property>
+</url>
+<url>
+<loc>https://vafaeenezhads-tech.github.io/cheap-mobileee/contact.html</loc>
+<property>0.4</property>
 </url>
 </urlset>
